@@ -19,11 +19,14 @@
 [bbb11e0185df6243fdc001375204a1b79e0f5928] FettFitt#b
 [bbb43994de92c49e86d0b0317f06f29722ab8019] MettEagle#b
 [bbba2a6c979075d9f9d951bfc6d4b119f3dec045] Frank_Treiber#b
+[bbd1c6ef75a53b6d33f8dbadc955143361baa6db] Archiv-Joschi#b
 [c85c86630f93fe88e6889f85b9f8918d797acead] Hagebuddne_reupload#c
 [dd8578da75703db1202e0de91941663ae973928d] Rudi_aus_Buddeln#d
+[e7f8cc8c632e9e0059c2ac50a604588f6cbcc0ca] HankLoose#e
 [e9c799bb58e304a2b7096e14e9ec6c6a7ca1cf96] AntimobbingGuys#e
 [e68c7a7ca208315c8040ebd214e676ff6f54814d] Fordblu#e
 [e93624afb8ff91db45c2d7ff2a5c8b1e2ed0a142] Rainer_mit_AI#e
 [f06a24a1c2a5ae5e8d9bd76371b65da8e7f07ad7] DerheiligeOfenkäse#f
+[f44a096c410215ef565aab026cb91ff034784a02] MariaSteiner#f
 [f4621efb707184b3eb7ded5fce4c9ea5fa043b12] EnolMuks#f
 [fef06994ea5a067b96f961dc58b726cb90a8ee6d] winklersliste2#f
